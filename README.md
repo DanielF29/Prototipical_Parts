@@ -1,2 +1,2 @@
 # ProtoPNets
-Repor with some codes to train and test ProtoPNets (Thanks to Chaofan Chen, original autor of ProtoPNet)
+Repository with some codes to train and test ProtoPNets (Thanks to Chaofan Chen, original autor of ProtoPNet)
