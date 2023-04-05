@@ -1,21 +1,3 @@
-# Analisys of one image with ProtoPNet
-
+# Analisys of one image with ProtoPNet, example of how to run "local_analysis" from bash terminal
 python local_analysis.py -modeldir saved_models/densenet201/ -model 10_19push0.7739.pth -imgdir datasets\cub200_cropped\test_cropped\001.Black_footed_Albatross -img Black_Footed_Albatross_0046_18.jpg -imgclass 0
-
-
-Checar secciones 4.2 y 4.3 del paper: "Learning from Very Few Samples: A Survey" 
-https://arxiv.org/pdf/2009.02653.pdf
-
-
-Principales 3 redes de few-shot 
-Protipical nets
-matching nets
-relation nets
-
-Checar diferentes Pre-entrenados:
-Pre-entrenado: es cuando se preentrena en imagener con las 900 primeras classes
-
-
-
-
 
